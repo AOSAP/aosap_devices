@@ -10,7 +10,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "dumpling": {
       "device": "OnePlus 5T",
@@ -22,7 +23,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "cheeseburger": {
       "device": "OnePlus 5",
@@ -34,7 +36,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "enchilada": {
       "device": "OnePlus 6",
@@ -46,7 +49,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "lemonadep": {
       "device": "OnePlus 9 Pro",
@@ -58,7 +62,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Nokia": {
@@ -72,7 +77,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Zuk": {
@@ -86,7 +92,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Yu": {
@@ -100,7 +107,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Poco": {
@@ -114,7 +122,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "beryllium": {
       "device": "Poco F1",
@@ -126,7 +135,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "surya": {
       "device": "Poco X3",
@@ -138,7 +148,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Realme": {
@@ -152,7 +163,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "RMX1805": {
       "device": "Realme 2",
@@ -164,7 +176,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "RMX1801": {
       "device": "Realme 2 pro",
@@ -176,7 +189,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "RMX1831": {
       "device": "Realme U1",
@@ -188,7 +202,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "RMX1821": {
       "device": "Realme 3",
@@ -200,7 +215,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Xiaomi": {
@@ -214,7 +230,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "begonia": {
       "device": "Xiaomi Redmi Note 8 pro",
@@ -226,7 +243,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "violet": {
       "device": "Xiaomi Redmi Note 7 Pro",
@@ -238,7 +256,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "sweet": {
       "device": "Xiaomi Redmi Note 10 pro",
@@ -250,7 +269,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "alioth": {
       "device": "Poco F3/Xiaomi Mi 11x / Redmi K40",
@@ -262,7 +282,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     },
     "apollo": {
       "device": "Mi 10T/ 10T Pro",
@@ -274,7 +295,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   },
   "Asus": {
@@ -288,7 +310,8 @@
       "links": {
         "XDA-Thread": "https://www.xda-developers.com/",
         "Telegram": "https://telegram.com"
-      }
+      },
+      "released": "2019, May 2016"
     }
   }
 }
