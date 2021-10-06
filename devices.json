@@ -1,0 +1,294 @@
+{
+  "OnePlus": {
+    "avicii": {
+      "device": "OnePlus Nord",
+      "codename": "avicii",
+      "maintainers": ["VJS Pranavasri"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "dumpling": {
+      "device": "OnePlus 5T",
+      "codename": "dumpling",
+      "maintainers": ["LOLAPOLA"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "cheeseburger": {
+      "device": "OnePlus 5",
+      "codename": "cheeseburger",
+      "maintainers": ["LOLAPOLA"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "enchilada": {
+      "device": "OnePlus 6",
+      "codename": "enchilada",
+      "maintainers": ["Ayan Choudhury"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "lemonadep": {
+      "device": "OnePlus 9 Pro",
+      "codename": "lemonadep",
+      "maintainers": ["VJS Pranavasri"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Nokia": {
+    "PL2": {
+      "device": "Nokia 6.1",
+      "codename": "PL2",
+      "maintainers": ["VJS Pranavasri"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Zuk": {
+    "z2_plus": {
+      "device": "Zuk Z2 Plus",
+      "codename": "z2_plus",
+      "maintainers": ["Nikhil Gohil"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Yu": {
+    "garlic": {
+      "device": "Yu Yureka Black",
+      "codename": "garlic",
+      "maintainers": ["Pritish Joshi"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Poco": {
+    "phoenix": {
+      "device": "Poco X2",
+      "codename": "phoenix",
+      "maintainers": ["Yashodhan Sawardekar"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "beryllium": {
+      "device": "Poco F1",
+      "codename": "beryllium",
+      "maintainers": ["Preetam Swain"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "surya": {
+      "device": "Poco X3",
+      "codename": "surya",
+      "maintainers": ["P Sambit Kumar"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Realme": {
+    "CPH1859": {
+      "device": "Realme 1",
+      "codename": "CPH1859",
+      "maintainers": ["Debayan Kar"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "RMX1805": {
+      "device": "Realme 2",
+      "codename": "RMX1805",
+      "maintainers": ["Baibhab"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "RMX1801": {
+      "device": "Realme 2 pro",
+      "codename": "RMX1801",
+      "maintainers": ["Baibhab"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "RMX1831": {
+      "device": "Realme U1",
+      "codename": "RMX1831",
+      "maintainers": ["Lokesh Vazirani"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "RMX1821": {
+      "device": "Realme 3",
+      "codename": "RMX1821",
+      "maintainers": ["Pritish", "Sandip"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Xiaomi": {
+    "mido": {
+      "device": "Xiaomi Redmi Note 4/4x",
+      "codename": "mido",
+      "maintainers": ["Shashank S Patil"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "begonia": {
+      "device": "Xiaomi Redmi Note 8 pro",
+      "codename": "begonia",
+      "maintainers": ["Shekhar Behera"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "violet": {
+      "device": "Xiaomi Redmi Note 7 Pro",
+      "codename": "violet",
+      "maintainers": ["Nitesh"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "sweet": {
+      "device": "Xiaomi Redmi Note 10 pro",
+      "codename": "sweet",
+      "maintainers": ["Ali Hasan"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "alioth": {
+      "device": "Poco F3/Xiaomi Mi 11x / Redmi K40",
+      "codename": "alioth",
+      "maintainers": ["SukeeratSG"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    },
+    "apollo": {
+      "device": "Mi 10T/ 10T Pro",
+      "codename": "apollo",
+      "maintainers": ["Kndroid"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  },
+  "Asus": {
+    "X00T": {
+      "device": "Asus Zenfone Max Pro m1",
+      "codename": "X00T",
+      "maintainers": ["KNdroid"],
+      "processor": "Snapdragon 735",
+      "battery": 4300,
+      "display": "6.6in 90Hz Fluid Amoled",
+      "links": {
+        "XDA-Thread": "https://www.xda-developers.com/",
+        "Telegram": "https://telegram.com"
+      }
+    }
+  }
+}
