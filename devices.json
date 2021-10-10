@@ -287,19 +287,6 @@
         "Telegram": "https://telegram.com"
       },
       "released": "2019, May 2016"
-    },
-    "apollo": {
-      "device": "Mi 10T/ 10T Pro",
-      "codename": "apollo",
-      "maintainers": ["Kndroid"],
-      "processor": "Snapdragon 735",
-      "battery": 4300,
-      "display": "6.6in 90Hz Fluid Amoled",
-      "links": {
-        "XDA-Thread": "https://www.xda-developers.com/",
-        "Telegram": "https://telegram.com"
-      },
-      "released": "2019, May 2016"
     }
   },
   "Asus": {
